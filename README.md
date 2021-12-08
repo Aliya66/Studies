@@ -1,5 +1,5 @@
 # Studies
-Yandex.Practicum projects \ 
+Yandex.Practicum projects 
 
 This repository contains sample projects I have completed as part of my studying at Yandex.Practicum. Each folder contains *.ipynb* file and a description file. \
 Projects from the data analysis course by Yandex:
