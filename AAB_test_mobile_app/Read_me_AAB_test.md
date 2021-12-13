@@ -1,4 +1,4 @@
-
+# Analysis of user behavior in a mobile application
 We need to check how changing the font in the app will affect the conversion of clicks into purchases. For this purpose, two control (A-A) and one experimental (B) groups were created. 
 
 For each group were defined:
